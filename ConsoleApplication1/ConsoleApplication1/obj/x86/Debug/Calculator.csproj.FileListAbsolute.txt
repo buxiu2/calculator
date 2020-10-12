@@ -1,0 +1,5 @@
+D:\项目\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\项目\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\项目\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+D:\项目\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+D:\项目\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\Calculator.csprojResolveAssemblyReference.cache
